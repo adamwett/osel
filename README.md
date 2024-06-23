@@ -1,1 +1,1 @@
-a license to protect the financial exploitation of open source work
+a license created to limit the financial exploitation of open source software
